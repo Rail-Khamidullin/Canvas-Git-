@@ -17,6 +17,7 @@
 		338DB95927CCB82700D865CC /* LableUIKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 338DB95827CCB82700D865CC /* LableUIKit.swift */; };
 		338DB95E27CCC19300D865CC /* ButtonUIKit.swift in Sources */ = {isa = PBXBuildFile; fileRef = 338DB95D27CCC19300D865CC /* ButtonUIKit.swift */; };
 		338DB97327CCCC7400D865CC /* StackButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 338DB97227CCCC7400D865CC /* StackButton.swift */; };
+		33BA60A52874646300D5E06D /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 33BA60A42874646300D5E06D /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		338DB95827CCB82700D865CC /* LableUIKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LableUIKit.swift; sourceTree = "<group>"; };
 		338DB95D27CCC19300D865CC /* ButtonUIKit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonUIKit.swift; sourceTree = "<group>"; };
 		338DB97227CCCC7400D865CC /* StackButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackButton.swift; sourceTree = "<group>"; };
+		33BA60A42874646300D5E06D /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 		338DB90827CCAA6700D865CC = {
 			isa = PBXGroup;
 			children = (
+				33BA60A42874646300D5E06D /* .gitignore */,
 				338DB91327CCAA6700D865CC /* Canvas2UIKit */,
 				338DB92A27CCAA6900D865CC /* Canvas2UIKitTests */,
 				338DB93527CCAA6900D865CC /* Canvas2UIKitUITests */,
@@ -238,6 +241,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				338DB92127CCAA6900D865CC /* LaunchScreen.storyboard in Resources */,
+				33BA60A52874646300D5E06D /* .gitignore in Resources */,
 				338DB91E27CCAA6900D865CC /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
